@@ -21,11 +21,12 @@ menu.addEventListener("click", function (event) {
 });
 var typingEffect = new Typed(".multitext", {
   strings: [
-    "Front-end Developer",
     "Digital Marketer",
+    "Front-end Developer",
     "Tech Support",
     "Web 3 Lover",
     "No-code Developer",
+    "Strategy Developer",
   ],
   loop: true,
   typeSpeed: 100,
